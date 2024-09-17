@@ -44,3 +44,15 @@ h1{
 .no{
     color: #402432;
 }
+
+.table1 {
+    text-align: left;
+    width: 95%;
+    margin: 20px;
+    border: 1px solid black;
+    font-weight: 600;
+}
+.tabtitle{
+    background-color: #8A99AE;
+    text-align: center;
+}
