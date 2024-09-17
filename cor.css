@@ -56,3 +56,23 @@ h1{
     background-color: #8A99AE;
     text-align: center;
 }
+
+.table2 {
+    text-align: center;
+    width: 95%;
+    margin: 20px;
+    border: 1px solid black;
+    font-weight: 600;
+}
+
+.totalunits{
+    text-align: right;
+}
+
+.note{
+    text-align: left;
+}
+
+th{
+    background-color: #8A99AE;
+}
