@@ -35,3 +35,12 @@ h1{
     text-align: center;
     word-spacing: 10px;
 }
+
+.Regnum{
+    display: flex;
+    padding-left: 40px;
+}
+
+.no{
+    color: #402432;
+}
