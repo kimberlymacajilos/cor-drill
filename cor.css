@@ -130,4 +130,9 @@ th{
 
 div.rules h6{
     text-align: center;
+    font-size: 15px;
+}
+
+div.rules li{
+    font-weight: 400;
 }
