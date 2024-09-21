@@ -63,6 +63,30 @@ h1{
     font-weight: 600;
 }
 
+.code{
+    width: 5%;
+}
+
+.section{
+    width: 25%;
+}
+
+.unit{
+    width: 15%;
+}
+
+.section{
+    width: 10%;
+}
+
+.room{
+    width: 20%;
+}
+
+.faculty{
+    width: 20%;
+}
+
 .totalunits{
     text-align: right;
 }
@@ -90,4 +114,16 @@ th{
 
 .right{
     text-align: right;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 180%;
+    margin: 20px auto;
+}
+
+.rules{
+    width: 80%;
+    text-align: justify;
 }
