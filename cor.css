@@ -127,3 +127,7 @@ th{
     width: 80%;
     text-align: justify;
 }
+
+div.rules h6{
+    text-align: center;
+}
